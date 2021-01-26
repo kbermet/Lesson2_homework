@@ -1,4 +1,4 @@
-string= [1, 'company', ('position'), {'name':'Bermet', 'surname' : 'Karabekova', 'age': 38}]
-for i in string:
-    print(type(string))
+my_list = [[1, 2, 3], 'company', True, {'name': 'Bermet', 'surname': 'Karabekova', 'age': 38}]
 
+for el in my_list:
+    print(type(el))
