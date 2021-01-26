@@ -1,4 +1,4 @@
-string = input('Enter several words: ')
+string = input('Enter some words: ')
 
 my_list = string.split()
 
