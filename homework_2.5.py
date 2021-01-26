@@ -1,5 +1,5 @@
 
-number = int(input('Enter new rating number from 0 to 9: '))
+number = int(input('Enter a rating number from 0 to 9: '))
 rating = [9, 7, 5, 4, 4, 2, 1]
 # new_rating = []
 

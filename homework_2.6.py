@@ -23,7 +23,7 @@ while True:
     if title is None:
         tmp = input('Enter product name: ')
         if not tmp.isalnum():
-            print('Enter product name. Try again.')
+            print('Enter produc name. Try again.')
             continue
 
         title = tmp
